@@ -9,7 +9,9 @@ Goal: The purpose of this project is to test java application connectivity with 
 
 #### Steps for creating Schema
 
-`CREATE TABLE `USER` (
+
+
+CREATE TABLE `USER` (
   `id` int(10) unsigned NOT NULL auto_increment,
   `first_name` varchar(45) NOT NULL,
   `last_name` varchar(45) NOT NULL,
