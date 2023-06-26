@@ -1,2 +1,0 @@
-hi! checking for pull conflicts
-hi checking for merge conflicts
